@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+#sq{
+  list-style-type: square;
+}
+
+#mos{
+  width:500px;
+  background-color: #61dafb;
+  height: auto;
+  margin: auto;
+}
+#mos2{
+  width:500px;
+  background-color: #61dafb;
+  height: auto;
+  margin: auto;
+}
+h1{
+  color: blue;
+}
+#title{
+  color: crimson;
+  font-size: 50px;
+  text-decoration: underline;
+  text-decoration-style: solid;
+  text-decoration-color: blue;
+}
